@@ -23,11 +23,11 @@ This project builds a machine learning model to predict individual medical insur
 
 This project uses multiple libraries for rich data visualization:
 
-# Matplotlib → Line charts, scatter plots, bar charts
+ Matplotlib → Line charts, scatter plots, bar charts
 
-# Seaborn → Heatmaps, correlation maps, pairplots, boxplots
+ Seaborn → Heatmaps, correlation maps, pairplots, boxplots
 
-# Pandas Plotting → Quick dataframe-level plots
+ Pandas Plotting → Quick dataframe-level plots
 
 
 Visualizations include:
